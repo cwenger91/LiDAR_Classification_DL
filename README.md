@@ -4,7 +4,7 @@ This code analyzes the LAS Point Cloud for Peoria County. Peoria County contains
 This project uses the Laspy python pacakge for reading,modifying, and writing LAS files.
 Download site-package at https://github.com/laspy/laspy
 
-The dataset for this example is stored in Peoria_LIDAR_Files.zip which is a smaller subset of LAS files downloaded from https://clearinghouse.isgs.illinois.edu/distribute-west/peoria/peoria-las.zip
+The dataset for this example is stored in sampledata.zip which is a smaller subset of LAS files downloaded from https://clearinghouse.isgs.illinois.edu/distribute-west/peoria/peoria-las.zip
 
-For the smaller data set of 20 LAS file see
+For a slightly larger data set of 20 LAS file see
 https://drive.google.com/file/d/1O_C81eHSakuxHhDNXwD-bf6bRlqQx-Va/view?usp=sharing
