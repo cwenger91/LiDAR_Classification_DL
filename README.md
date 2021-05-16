@@ -6,5 +6,5 @@ Download site-package at https://github.com/laspy/laspy
 
 The dataset for this example is stored in sampledata.zip which is a smaller subset of LAS files downloaded from https://clearinghouse.isgs.illinois.edu/distribute-west/peoria/peoria-las.zip
 
-For a slightly larger data set of 20 LAS file see
-https://drive.google.com/file/d/1O_C81eHSakuxHhDNXwD-bf6bRlqQx-Va/view?usp=sharing
+For a slightly larger data set of 81 LAS file see
+https://drive.google.com/file/d/1Ozl2FxqMyIibE8O3w94mXADfrI-4gXvv/view?usp=sharing
